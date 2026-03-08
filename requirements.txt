@@ -1,0 +1,8 @@
+chainlit
+ollama
+langchain
+langchain-ollama
+python-dotenv
+chromadb
+pypdf
+fastembed
